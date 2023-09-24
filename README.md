@@ -1,2 +1,2 @@
-# Expression_Avaliator
-Mathematical expression avalitaor developed in Java
+# Expression_Evaluator
+Mathematical expression evalutaor developed in Java
